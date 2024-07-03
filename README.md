@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @GutMutCode
 - 👀 I’m interested in EVERY Creative Things
-- 🌱 I’m currently learning Elixir lang & Phoenix Framework & PostgreSQL
-- 💞️ I’m looking to collaborate on PirateSoftware
+- 🌱 I’m currently learning C/C++ & ROS/RTOS
+- I love fault-tolerant concept for developer experience!
+- 💞️ I’m looking to collaborate on PirateSoftware, ThePrimeagen and Team Jupyter.
 - 📫 How to reach me (gutmutcode on Gmail, Youtube, Instagram and TikTok)
 
 <!---
